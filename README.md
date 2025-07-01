@@ -1,2 +1,2 @@
-# An-lise-de-Algoritmos-EDB-I
+# Anlise-de-Algoritmos-EDB-I
 Análise Comparativa de Algoritmos de Ordenação 
