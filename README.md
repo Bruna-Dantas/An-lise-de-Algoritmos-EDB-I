@@ -18,7 +18,7 @@ git clone [https://github.com/Bruna-Dantas/algoritmos_ordem.git]
 2. Navegue até a pasta do projeto.
 
 ```
-cd aloritmos_ordem
+cd algoritmos_ordem
 ```
 
 <br>
