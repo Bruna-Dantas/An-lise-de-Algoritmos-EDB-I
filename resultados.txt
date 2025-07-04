@@ -1,0 +1,69 @@
+
+===== TAMANHO: 100 =====
+
+Tipo: Aleatorio
+Bubble Sort | Tamanho: 100 | Tempo: 3.6e-05s | Comparacoes: 4950 | Trocas: 2444
+Insertion Sort | Tamanho: 100 | Tempo: 8e-06s | Comparacoes: 2541 | Trocas: 2444
+Selection Sort | Tamanho: 100 | Tempo: 1.6e-05s | Comparacoes: 4950 | Trocas: 96
+Merge Sort | Tamanho: 100 | Tempo: 1.3e-05s | Comparacoes: 542 | Trocas: 254
+Quick Sort | Tamanho: 100 | Tempo: 6e-06s | Comparacoes: 690 | Trocas: 493
+
+Tipo: Quase Ordenado
+Bubble Sort | Tamanho: 100 | Tempo: 1.6e-05s | Comparacoes: 4950 | Trocas: 524
+Insertion Sort | Tamanho: 100 | Tempo: 3e-06s | Comparacoes: 623 | Trocas: 524
+Selection Sort | Tamanho: 100 | Tempo: 1.5e-05s | Comparacoes: 4950 | Trocas: 10
+Merge Sort | Tamanho: 100 | Tempo: 1e-05s | Comparacoes: 520 | Trocas: 189
+Quick Sort | Tamanho: 100 | Tempo: 6e-06s | Comparacoes: 1395 | Trocas: 1143
+
+Tipo: Inversamente Ordenado
+Bubble Sort | Tamanho: 100 | Tempo: 4.4e-05s | Comparacoes: 4950 | Trocas: 4950
+Insertion Sort | Tamanho: 100 | Tempo: 1.3e-05s | Comparacoes: 4950 | Trocas: 4950
+Selection Sort | Tamanho: 100 | Tempo: 1.8e-05s | Comparacoes: 4950 | Trocas: 50
+Merge Sort | Tamanho: 100 | Tempo: 1.6e-05s | Comparacoes: 316 | Trocas: 316
+Quick Sort | Tamanho: 100 | Tempo: 1.6e-05s | Comparacoes: 4950 | Trocas: 2549
+
+===== TAMANHO: 1000 =====
+
+Tipo: Aleatorio
+Bubble Sort | Tamanho: 1000 | Tempo: 0.002961s | Comparacoes: 499500 | Trocas: 258017
+Insertion Sort | Tamanho: 1000 | Tempo: 0.000576s | Comparacoes: 259007 | Trocas: 258017
+Selection Sort | Tamanho: 1000 | Tempo: 0.001464s | Comparacoes: 499500 | Trocas: 993
+Merge Sort | Tamanho: 1000 | Tempo: 0.00012s | Comparacoes: 8722 | Trocas: 4314
+Quick Sort | Tamanho: 1000 | Tempo: 4.8e-05s | Comparacoes: 10470 | Trocas: 5153
+
+Tipo: Quase Ordenado
+Bubble Sort | Tamanho: 1000 | Tempo: 0.001549s | Comparacoes: 499500 | Trocas: 63068
+Insertion Sort | Tamanho: 1000 | Tempo: 0.000153s | Comparacoes: 64067 | Trocas: 63068
+Selection Sort | Tamanho: 1000 | Tempo: 0.001572s | Comparacoes: 499500 | Trocas: 100
+Merge Sort | Tamanho: 1000 | Tempo: 7.7e-05s | Comparacoes: 8035 | Trocas: 3225
+Quick Sort | Tamanho: 1000 | Tempo: 4.4e-05s | Comparacoes: 15483 | Trocas: 9590
+
+Tipo: Inversamente Ordenado
+Bubble Sort | Tamanho: 1000 | Tempo: 0.004506s | Comparacoes: 499500 | Trocas: 499500
+Insertion Sort | Tamanho: 1000 | Tempo: 0.00145s | Comparacoes: 499500 | Trocas: 499500
+Selection Sort | Tamanho: 1000 | Tempo: 0.001414s | Comparacoes: 499500 | Trocas: 500
+Merge Sort | Tamanho: 1000 | Tempo: 6.2e-05s | Comparacoes: 4932 | Trocas: 4932
+Quick Sort | Tamanho: 1000 | Tempo: 0.001061s | Comparacoes: 499500 | Trocas: 250499
+
+===== TAMANHO: 5000 =====
+
+Tipo: Aleatorio
+Bubble Sort | Tamanho: 5000 | Tempo: 0.056741s | Comparacoes: 12497500 | Trocas: 6213514
+Insertion Sort | Tamanho: 5000 | Tempo: 0.012184s | Comparacoes: 6218507 | Trocas: 6213514
+Selection Sort | Tamanho: 5000 | Tempo: 0.031943s | Comparacoes: 12497500 | Trocas: 4982
+Merge Sort | Tamanho: 5000 | Tempo: 0.000571s | Comparacoes: 55197 | Trocas: 27071
+Quick Sort | Tamanho: 5000 | Tempo: 0.000265s | Comparacoes: 65663 | Trocas: 36482
+
+Tipo: Quase Ordenado
+Bubble Sort | Tamanho: 5000 | Tempo: 0.029335s | Comparacoes: 12497500 | Trocas: 1373893
+Insertion Sort | Tamanho: 5000 | Tempo: 0.002682s | Comparacoes: 1378892 | Trocas: 1373893
+Selection Sort | Tamanho: 5000 | Tempo: 0.03455s | Comparacoes: 12497500 | Trocas: 499
+Merge Sort | Tamanho: 5000 | Tempo: 0.000392s | Comparacoes: 52548 | Trocas: 21964
+Quick Sort | Tamanho: 5000 | Tempo: 0.000579s | Comparacoes: 276598 | Trocas: 184208
+
+Tipo: Inversamente Ordenado
+Bubble Sort | Tamanho: 5000 | Tempo: 0.085534s | Comparacoes: 12497500 | Trocas: 12497500
+Insertion Sort | Tamanho: 5000 | Tempo: 0.024574s | Comparacoes: 12497500 | Trocas: 12497500
+Selection Sort | Tamanho: 5000 | Tempo: 0.030862s | Comparacoes: 12497500 | Trocas: 2500
+Merge Sort | Tamanho: 5000 | Tempo: 0.0003s | Comparacoes: 29804 | Trocas: 29804
+Quick Sort | Tamanho: 5000 | Tempo: 0.024306s | Comparacoes: 12497500 | Trocas: 6252499
