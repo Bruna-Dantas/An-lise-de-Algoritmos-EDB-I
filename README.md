@@ -1,7 +1,7 @@
 # PROJETO - EDB I - Análise de Algoritmos d
 
 ## Objetivo da atividade:
-Esse trabalho tem o objetivo de listar algoritmos de ordenação aprendidos em sala de aula, aplicar em prática e analisar seu desempenho a partir de parâmetros específicos. 
+Este trabalho tem como objetivo apresentar e aplicar, na prática, os principais algoritmos de ordenação estudados em sala de aula. A proposta envolve a implementação desses algoritmos, seguida da análise de seu desempenho a partir de parâmetros específicos, como tempo de execução, número de comparações e trocas realizadas. O estudo busca relacionar os resultados empíricos com as complexidades teóricas, destacando as características e comportamentos de cada algoritmo em diferentes tipos de entrada.
 
 <br><br>
 
